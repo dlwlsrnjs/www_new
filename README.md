@@ -1,4 +1,4 @@
-# Temporal QA via Rule‑Guided MCTS over Temporal KGs (Immediate‑After)
+# Temporal QA via Rule‑Guided MCTS over Temporal KGs
 
 This folder contains a minimal, submission‑ready demo that reproduces the paper’s approach: hybrid rule‑guided search plus MCTS over a Temporal Knowledge Graph (TKG) to answer “immediately after” questions. The demo ships with a Dummy LLM for fully offline runs and can be swapped to GPT‑4 easily.
 
